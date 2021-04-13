@@ -1,8 +1,8 @@
-## Hello, friend! 🤖
+# Hello, friend! 🤖
 
 
-My name is Cyro Andrade, I'm from Brazil 🇧🇷
-I am a Graphic Designer that decided to evolve as a professional by learning Programing Logic 
+My name is Cyro Andrade, 33yo, from Brazil.
+I am a Graphic Designer that decided to evolve as a professional by learning Programing Logic.
 
 - 🔭 I’m not currently working
 - 🌱 I’m currently learning HTML, CSS, JavaScript
