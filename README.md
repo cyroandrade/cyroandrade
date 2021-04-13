@@ -1,4 +1,4 @@
-### Hello, friend! 🤖
+## Hello, friend! 🤖
 
 
 My name is Cyro Andrade, I'm from Brazil 🇧🇷
@@ -6,12 +6,12 @@ I am a Graphic Designer that decided to evolve as a professional by learning Pro
 
 - 🔭 I’m not currently working
 - 🌱 I’m currently learning HTML, CSS, JavaScript
-- 👯 I’m looking to collaborate on [Open Data Day]https://opendataday.org/pt_br/
+- 👯 I’m looking to collaborate on [OpenDataDay](opendataday.org)
 - 🤔 I’m looking for help with JavaScript
 - 💬 Ask me about Growth Hacking
 - ⚡ Fun fact: I work better at night
 
-Reach me out 👇
+### Reach me out 👇
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cyroandrade/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/cyroandrade/)
