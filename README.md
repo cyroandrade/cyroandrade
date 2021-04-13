@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello, friend! 🤖
 
-<!--
-**cyroandrade/cyroandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Cyro Andrade, I'm from Brazil 🇧🇷
+I am a Graphic Designer that decided to evolve as a professional by learning Programing Logic 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m not currently working
+- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 👯 I’m looking to collaborate on [Open Data Day]https://opendataday.org/pt_br/
+- 🤔 I’m looking for help with JavaScript
+- 💬 Ask me about Growth Hacking
+- ⚡ Fun fact: I work better at night
+
+Reach me out 👇
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cyroandrade/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/cyroandrade/)
